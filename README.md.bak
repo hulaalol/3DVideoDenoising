@@ -1,7 +1,4 @@
 # Requirements
-- Download 3DVideoDenoising.zip at https://hulaa.ddns.net/nextcloud/index.php/s/B9HPRPrGRzXCCxn
-- Extract this zip into the root directory of this repo
-
 - MATLAB R2019b
 - MatConvNet version 1.0-beta24
 - CUDA release 10.1.
